@@ -1,5 +1,4 @@
 ### Hi there, I'm [Akshay!](https://dev.to/akshaydk) 👋
-Hi, I'm Akshay, a software developer.
 <br />
 
 
