@@ -1,4 +1,5 @@
 ### Hi there, I'm [Akshay!](https://dev.to/akshaydk) 👋
+I am software engineer based out of Berlin, Germany.
 <br />
 
 
