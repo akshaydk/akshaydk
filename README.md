@@ -13,10 +13,6 @@ I am software engineer based out of Berlin, Germany.
    <br/>
    </a>
 </div>
- 
-<div align=center> 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akshaydk&langs_count=12&exclude_repo=adityaseth.github.io&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="akshaydk" /></p
-</div>
   
 [![Akshay's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaydk&theme=react-dark)](https://github.com/AdityaSeth777)
 
