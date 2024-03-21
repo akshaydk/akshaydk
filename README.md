@@ -13,7 +13,5 @@ I am software engineer based out of Berlin, Germany.
    <br/>
    </a>
 </div>
-  
-[![Akshay's Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshaydk&theme=react-dark)](https://github.com/akshaydk)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=akshaydk&theme=juicyfresh)](https://github.com/akshaydk/github-profile-trophy)
